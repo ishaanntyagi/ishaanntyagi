@@ -1,13 +1,14 @@
 ![Header](https://github.com/ishaanntyagi/ishaanntyagi/blob/main/Blue%20Playful%20Productivity%20Blog%20LinkedIn%20Article%20Cover%20Image.png)
 
-Hi there 👋, I'm Ishaan Narayan!
+Hi there 👋, 
+I'm Ishaan Narayan!
 Welcome to my GitHub profile! 🚀 I'm a passionate Computer Science undergraduate and an aspiring Full-Stack Developer with a strong interest in Web Development, Machine Learning, and DevOps.
 
 About Me:
 🎓 Currently pursuing B.Tech in Computer Science and Engineering.
 💻 Skilled in C++, Java, JavaScript, ReactJS, Python, and Web Development.
 🌱 Learning more about Machine Learning and Cloud Computing.
-🔧 Basic knowledge of DevOps tools like Docker, GitHub Actions, and Linux.
+🔧 Basic knowledge of DevOps tools like Docker, Nginx and Linux.
 ⚙️ Familiar with cloud platforms like AWS.
 🤝 I’m open to collaborating on exciting projects and contributing to open-source.
 🌟 Always curious to explore new technologies and grow my problem-solving skills.
@@ -50,7 +51,8 @@ About Me:
 
 ![Coding GIF](https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc3ODA5MDAsIm5iZiI6MTcyNzc4MDYwMCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAxVDExMDMyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUzN2JhZjcxZWZlMGUwNWI1YmI2MTQ1ZTYxYzliMWNhMDE2Yzk2OWJiNDZjMTU4NjkwOWIyZDQ0ZWRjOTE0NjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._IEydrEUf5DpC2qzCdr13SMfS6wy6E782Qkh60t9nvM)
 
-
+---
+⭐️ From [Ishaan Narayan](https://github.com/ishaanntyagi)
 
 
 
