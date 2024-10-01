@@ -39,10 +39,13 @@ About Me:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/ishaan-narayan-620560256/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/ishaanntyagi)
-[![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=flat-square&logo=icloud&logoColor=white&link=mailto:ishntyagi@icloud.com)](mailto:ishntyagi@icloud.com)
+## 📫 Let's Connect
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishaanntyagi)
+[![Email Badge](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=icloud&logoColor=white)](mailto:ishntyagi@icloud.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-narayan)
+
+---
 
 
 ![Coding GIF](https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc3ODA5MDAsIm5iZiI6MTcyNzc4MDYwMCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAxVDExMDMyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUzN2JhZjcxZWZlMGUwNWI1YmI2MTQ1ZTYxYzliMWNhMDE2Yzk2OWJiNDZjMTU4NjkwOWIyZDQ0ZWRjOTE0NjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._IEydrEUf5DpC2qzCdr13SMfS6wy6E782Qkh60t9nvM)
