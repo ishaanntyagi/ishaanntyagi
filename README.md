@@ -1,4 +1,4 @@
-![Header](https://github.com/ishaanntyagi/ishaanntyagi/blob/main/Blue%20Playful%20Productivity%20Blog%20LinkedIn%20Article%20Cover%20Image.png)
+![Header](WhatsApp Image 2025-06-05 at 09.49.54_155732c8.jpg)
 
 Hi there 👋, 
 I'm Ishaan Narayan!
