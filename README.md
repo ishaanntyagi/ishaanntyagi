@@ -2,7 +2,7 @@
 
 Hi there 👋, 
 I'm Ishaan Narayan!
-Welcome to my GitHub profile! 🚀 I'm a passionate Computer Science undergraduate and an aspiring Full-Stack Developer with a strong interest in Web Development, Machine Learning, and DevOps.
+Welcome to my GitHub 
 
 About Me:
 🎓 Currently pursuing B.Tech in Computer Science and Engineering.
