@@ -7,11 +7,14 @@ Welcome to my GitHub profile! 🚀 I'm a passionate Computer Science undergradua
 About Me:
 🎓 Currently pursuing B.Tech in Computer Science and Engineering.
 
-💻 Skilled in C++, Java, JavaScript, ReactJS, Python, and Web Development.
+💻 Skilled in C++, Java, JavaScript, ReactJS, Python, and Web Development , Machine Lesrning and DeepLearning
+
 🌱 Learning more about Machine Learning and Cloud Computing.
+
 🔧 Basic knowledge of DevOps tools like Docker, Nginx and Linux.
-⚙️ Familiar with cloud platforms like AWS.
+
 🤝 I’m open to collaborating on exciting projects and contributing to open-source.
+
 🌟 Always curious to explore new technologies and grow my problem-solving skills.
 
 
