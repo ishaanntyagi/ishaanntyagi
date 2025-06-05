@@ -1,4 +1,4 @@
-![Header](WhatsApp Image 2025-06-05 at 09.49.54_155732c8.jpg)
+![Header](WhatsApp%20Image%202025-06-05%20at%2009.49.54_155732c8.jpg)
 
 Hi there 👋, 
 I'm Ishaan Narayan!
